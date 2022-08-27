@@ -1,0 +1,49 @@
+image: assets/img/selfgrey.jpeg
+username: Mingya HUANG
+description: Quantitative Methods PhD student at University of Wisconsin-adison. <br> My vita is available [HERE](assets/files/Omri_Abarbanel_Resume.pdf).
+webpage: https://chrjabs.github.io
+experience: # Remove for hiding the experience section
+  - start: 2019
+    end: Present
+    experience : University of Wisconsin-adison
+    text: Phd in Quantitative ethods
+    text: MS in Statistic
+    text: Minot in Computer Science
+  - start: 2017
+    end: 2019
+    experience: University of Illinois at Urbana Champaign
+    text: MS in Quantitative and Qualitative Methodology, Measurement, and Evaluation (QUERIES)
+  - start: 2011
+    end: 2015
+    experience: Univeresity of Macau
+    text: Bachelor in Education
+    text: Minor in Psychology
+interests: # Remove for hiding the interests section
+  - Bayesian statistics
+  - Machine Learning
+  - Hierarchical models
+  - Causal inference
+skills: # Remove for hiding the skills section
+  - skill: R & Python 
+    value: 90
+  - skill: SAS & Mplus & Matlab & Docker & HTC & Excel
+    value: 
+  - skill: HTML5 & CSS & Java
+    value: 60  # Percent value
+social:
+  email: mhuang233@wisc.edu # Full email address, e.g. "sample@google.com"
+  orcid: 0000-0002-7390-3652
+  scholar: 
+  publons: 
+  research_gate: 
+  linkedin: https://www.linkedin.com/in/mingya-huang-5ab1b11a7/ # Full URL 
+  github: mhuang233
+  gitlab: 
+  bitbucket: 
+  google_plus:
+  twitter: MingyaHuang
+  youtube:
+  facebook:
+  instagram:
+awards: # Remove for hiding the awards section
+  - "This is an award I got"
